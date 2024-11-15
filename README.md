@@ -1,9 +1,6 @@
 # Hi there, I'm Chandra Mouli Tarigopula 👋
 Welcome to my GitHub profile! I'm a **MERN Stack Developer** passionate about building interactive, responsive, and scalable web applications. With a strong foundation in technologies like **HTML5, CSS, Tailwind CSS, Bootstrap, JavaScript, Python, TypeScript, SQLite, MongoDB, Express.js, React.js, Node.js, Git, Figma,** and **Postman API**, I strive to create impactful solutions that contribute to digital transformation.
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandramouli35&label=Profile%20views&color=0e75b6&style=flat" alt="chandramouli35" /> </p>
-
 [![](https://visitcount.itsvg.in/api?id=chandramouli35&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ---
@@ -55,13 +52,14 @@ Feel free to explore my repositories to see more of my work!
 
 ## 🌐 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mouli-chandra/) 
-
- 
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:tarigopulachandramouli1818@gmail.com)
-
-
-
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.linkedin.com/in/mouli-chandra/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:tarigopulachandramouli1818@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
 ---
 
