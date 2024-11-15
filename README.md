@@ -1,7 +1,7 @@
 # Hi there, I'm Chandra Mouli Tarigopula 👋
 Welcome to my GitHub profile! I'm a **MERN Stack Developer** passionate about building interactive, responsive, and scalable web applications. With a strong foundation in technologies like **HTML5, CSS, Tailwind CSS, Bootstrap, JavaScript, Python, TypeScript, SQLite, MongoDB, Express.js, React.js, Node.js, Git, Figma,** and **Postman API**, I strive to create impactful solutions that contribute to digital transformation.
 
-<div style="display: flex; align-items: center; background-color: gray; padding: 5px 10px; border-radius: 5px; color: white;">
+<div style="display: flex; flex:row; align-items: center; background-color: gray; padding: 5px 10px; border-radius: 5px; color: white;">
   <span style="margin-right: 10px;">Profile Views</span>
   <div style="background-color: blue; padding: 5px 10px; border-radius: 5px;">
     <img src="https://profile-counter.glitch.me/chandramouli35/count.svg" alt="Profile Views" style="height: 20px;">
