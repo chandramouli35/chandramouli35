@@ -37,8 +37,8 @@ Welcome to my GitHub profile! I'm a **MERN Stack Developer** passionate about bu
   <tr>
     <td><strong>Python</strong></td>
     <td><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python"/></td>
-    <td><strong>SQL</strong></td>
-    <td><img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" title="SQL"/></td>
+    <td><strong>SQLite</strong></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite" title="SQLite" width="48"/></td>
   </tr>
   <tr>
     <td><strong>MongoDB</strong></td>
@@ -48,7 +48,7 @@ Welcome to my GitHub profile! I'm a **MERN Stack Developer** passionate about bu
   </tr>
   <tr>
     <td><strong>Express.js</strong></td>
-    <td><img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js" title="Express.js"/></td>
+   <td><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" title="Express.js" width="48"/></td>
     <td><strong>React.js</strong></td>
     <td><img src="https://img.icons8.com/plasticine/48/000000/react.png" alt="React.js" title="React.js"/></td>
   </tr>
@@ -60,7 +60,8 @@ Welcome to my GitHub profile! I'm a **MERN Stack Developer** passionate about bu
   </tr>
   <tr>
     <td><strong>Postman API</strong></td>
-    <td><img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman API" title="Postman API"/></td>
+   <td><img src="https://img.icons8.com/color/48/000000/postman-api.png" alt="Postman API" title="Postman API"/></td>
+  
   </tr>
 </table>
 
