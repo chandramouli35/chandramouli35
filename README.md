@@ -1,12 +1,10 @@
 # Hi there, I'm Chandra Mouli Tarigopula 👋
 Welcome to my GitHub profile! I'm a **MERN Stack Developer** passionate about building interactive, responsive, and scalable web applications. With a strong foundation in technologies like **HTML5, CSS, Tailwind CSS, Bootstrap, JavaScript, Python, TypeScript, SQLite, MongoDB, Express.js, React.js, Node.js, Git, Figma,** and **Postman API**, I strive to create impactful solutions that contribute to digital transformation.
 
-<div style="display: flex; flex:row; align-items: center; background-color: gray; padding: 5px 10px; border-radius: 5px; color: white;">
-  <span style="margin-right: 10px;">Profile Views</span>
-  <div style="background-color: blue; padding: 5px 10px; border-radius: 5px;">
-    <img src="https://profile-counter.glitch.me/chandramouli35/count.svg" alt="Profile Views" style="height: 20px;">
-  </div>
-</div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandramouli35&label=Profile%20views&color=0e75b6&style=flat" alt="chandramouli35" /> </p>
+
+[![](https://visitcount.itsvg.in/api?id=chandramouli35&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ---
 
@@ -18,88 +16,10 @@ Welcome to my GitHub profile! I'm a **MERN Stack Developer** passionate about bu
 - 💡 Passionate about solving coding challenges and building innovative solutions with the MERN stack.
 
 ---
-## 🔧 Tools and Languages
-
-## 🔧 Tools and Languages
-
-<p align="left">
-  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
-    <img src="https://img.icons8.com/color/36/000000/html-5.png" alt="HTML5" title="HTML5" style="vertical-align: middle;"/>
-    <span style="margin-left: 8px;">HTML5</span>
-  </span>
-
-  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
-    <img src="https://img.icons8.com/color/36/000000/css3.png" alt="CSS3" title="CSS3" style="vertical-align: middle;"/>
-    <span style="margin-left: 8px;">CSS3</span>
-  </span>
-
-  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
-    <img src="https://img.icons8.com/color/36/000000/javascript.png" alt="JavaScript" title="JavaScript" style="vertical-align: middle;"/>
-    <span style="margin-left: 8px;">JavaScript</span>
-  </span>
-
-  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
-    <img src="https://img.icons8.com/color/36/000000/typescript.png" alt="TypeScript" title="TypeScript" style="vertical-align: middle;"/>
-    <span style="margin-left: 8px;">TypeScript</span>
-  </span>
-
-  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
-    <img src="https://img.icons8.com/color/36/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap" style="vertical-align: middle;"/>
-    <span style="margin-left: 8px;">Bootstrap</span>
-  </span>
-
-  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
-    <img src="https://img.icons8.com/color/36/000000/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS" style="vertical-align: middle;"/>
-    <span style="margin-left: 8px;">Tailwind CSS</span>
-  </span>
-
-  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
-    <img src="https://img.icons8.com/color/36/000000/python.png" alt="Python" title="Python" style="vertical-align: middle;"/>
-    <span style="margin-left: 8px;">Python</span>
-  </span>
-
-  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite" title="SQLite" width="36"/>
-    <span style="margin-left: 8px;">SQLite</span>
-  </span>
-
-  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
-    <img src="https://img.icons8.com/color/36/000000/mongodb.png" alt="MongoDB" title="MongoDB" style="vertical-align: middle;"/>
-    <span style="margin-left: 8px;">MongoDB</span>
-  </span>
-
-  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
-    <img src="https://img.icons8.com/color/36/000000/express.png" alt="Express.js" title="Express.js" style="vertical-align: middle;"/>
-    <span style="margin-left: 8px;">Express.js</span>
-  </span>
-
-  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
-    <img src="https://img.icons8.com/plasticine/36/000000/react.png" alt="React.js" title="React.js" style="vertical-align: middle;"/>
-    <span style="margin-left: 8px;">React.js</span>
-  </span>
-
-  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
-    <img src="https://img.icons8.com/color/36/000000/nodejs.png" alt="Node.js" title="Node.js" style="vertical-align: middle;"/>
-    <span style="margin-left: 8px;">Node.js</span>
-  </span>
-
-  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
-    <img src="https://img.icons8.com/color/36/000000/git.png" alt="Git" title="Git" style="vertical-align: middle;"/>
-    <span style="margin-left: 8px;">Git</span>
-  </span>
-
-  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
-    <img src="https://img.icons8.com/color/36/000000/figma.png" alt="Figma" title="Figma" style="vertical-align: middle;"/>
-    <span style="margin-left: 8px;">Figma</span>
-  </span>
-
-  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman API" title="Postman API" width="36"/>
-    <span style="margin-left: 8px;">Postman API</span>
-  </span>
-</p>
 
 
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ---
 
@@ -115,22 +35,30 @@ Feel free to explore my repositories to see more of my work!
 
 ---
 
+# 📊 GitHub Stats:
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandramouli35&show_icons=true&locale=en&layout=compact" alt="chandramouli35" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandramouli35&show_icons=true&locale=en" alt="chandramouli35" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandramouli35&" alt="chandramouli35" /></p>
+
+
+---
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=chandramouli35&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+
 ## 🌐 Let's Connect!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mouli-chandra/) 
 
-## 🔗 Contact
-
-<p align="left">
-  <strong>LinkedIn</strong>
-  <a href="https://www.linkedin.com/in/mouli-chandra/" target="_blank">
-    <img src="https://img.icons8.com/color/36/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" style="vertical-align: middle; margin-right: 20px;"/>
-  </a>
-
-  <strong>Email</strong>
-  <a href="mailto:tarigopulachandramouli1818@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/color/36/000000/gmail.png" alt="Email" title="Email" style="vertical-align: middle; margin-right: 20px;"/>
-  </a>
-</p>
+ 
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:tarigopulachandramouli1818@gmail.com)
 
 
 
