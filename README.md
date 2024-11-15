@@ -1,7 +1,15 @@
 # Hi there, I'm Chandra Mouli Tarigopula 👋
 Welcome to my GitHub profile! I'm a **MERN Stack Developer** passionate about building interactive, responsive, and scalable web applications. With a strong foundation in technologies like **HTML5, CSS, Tailwind CSS, Bootstrap, JavaScript, Python, TypeScript, SQLite, MongoDB, Express.js, React.js, Node.js, Git, Figma,** and **Postman API**, I strive to create impactful solutions that contribute to digital transformation.
 
-**Profile Views:** ![Profile Views](https://profile-counter.glitch.me/chandramouli35/count.svg)
+<div id="profile-views"></div>
+
+fetch('https://profile-counter.glitch.me/chandramouli35/count.json')
+  .then(response => response.json())
+  .then(data => {
+    // Access the count as a simple number and display it
+    document.getElementById("profile-views").textContent = data.value;
+  })
+  .catch(error => console.error('Error fetching profile views:', error));
 
 ---
 
