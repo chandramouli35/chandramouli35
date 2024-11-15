@@ -15,82 +15,85 @@ Welcome to my GitHub profile! I'm a **MERN Stack Developer** passionate about bu
 ---
 ## 🔧 Tools and Languages
 
-<p align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <span style="display: flex; align-items: center; padding: 8px 12px; background-color: #E44D26; color: white; border-radius: 8px;">
-    <img src="https://img.icons8.com/color/36/000000/html-5.png" alt="HTML5" title="HTML5" />
+## 🔧 Tools and Languages
+
+<p align="left">
+  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
+    <img src="https://img.icons8.com/color/36/000000/html-5.png" alt="HTML5" title="HTML5" style="vertical-align: middle;"/>
     <span style="margin-left: 8px;">HTML5</span>
   </span>
 
-  <span style="display: flex; align-items: center; padding: 8px 12px; background-color: #264de4; color: white; border-radius: 8px;">
-    <img src="https://img.icons8.com/color/36/000000/css3.png" alt="CSS3" title="CSS3" />
+  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
+    <img src="https://img.icons8.com/color/36/000000/css3.png" alt="CSS3" title="CSS3" style="vertical-align: middle;"/>
     <span style="margin-left: 8px;">CSS3</span>
   </span>
 
-  <span style="display: flex; align-items: center; padding: 8px 12px; background-color: #F7DF1E; color: black; border-radius: 8px;">
-    <img src="https://img.icons8.com/color/36/000000/javascript.png" alt="JavaScript" title="JavaScript" />
+  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
+    <img src="https://img.icons8.com/color/36/000000/javascript.png" alt="JavaScript" title="JavaScript" style="vertical-align: middle;"/>
     <span style="margin-left: 8px;">JavaScript</span>
   </span>
 
-  <span style="display: flex; align-items: center; padding: 8px 12px; background-color: #3178C6; color: white; border-radius: 8px;">
-    <img src="https://img.icons8.com/color/36/000000/typescript.png" alt="TypeScript" title="TypeScript" />
+  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
+    <img src="https://img.icons8.com/color/36/000000/typescript.png" alt="TypeScript" title="TypeScript" style="vertical-align: middle;"/>
     <span style="margin-left: 8px;">TypeScript</span>
   </span>
 
-  <span style="display: flex; align-items: center; padding: 8px 12px; background-color: #7952B3; color: white; border-radius: 8px;">
-    <img src="https://img.icons8.com/color/36/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap" />
+  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
+    <img src="https://img.icons8.com/color/36/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap" style="vertical-align: middle;"/>
     <span style="margin-left: 8px;">Bootstrap</span>
   </span>
 
-  <span style="display: flex; align-items: center; padding: 8px 12px; background-color: #06B6D4; color: white; border-radius: 8px;">
-    <img src="https://img.icons8.com/color/36/000000/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS" />
+  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
+    <img src="https://img.icons8.com/color/36/000000/tailwindcss.png" alt="Tailwind CSS" title="Tailwind CSS" style="vertical-align: middle;"/>
     <span style="margin-left: 8px;">Tailwind CSS</span>
   </span>
 
-  <span style="display: flex; align-items: center; padding: 8px 12px; background-color: #306998; color: white; border-radius: 8px;">
-    <img src="https://img.icons8.com/color/36/000000/python.png" alt="Python" title="Python" />
+  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
+    <img src="https://img.icons8.com/color/36/000000/python.png" alt="Python" title="Python" style="vertical-align: middle;"/>
     <span style="margin-left: 8px;">Python</span>
   </span>
 
-  <span style="display: flex; align-items: center; padding: 8px 12px; background-color: #003B57; color: white; border-radius: 8px;">
+  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite" title="SQLite" width="36"/>
     <span style="margin-left: 8px;">SQLite</span>
   </span>
 
-  <span style="display: flex; align-items: center; padding: 8px 12px; background-color: #47A248; color: white; border-radius: 8px;">
-    <img src="https://img.icons8.com/color/36/000000/mongodb.png" alt="MongoDB" title="MongoDB" />
+  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
+    <img src="https://img.icons8.com/color/36/000000/mongodb.png" alt="MongoDB" title="MongoDB" style="vertical-align: middle;"/>
     <span style="margin-left: 8px;">MongoDB</span>
   </span>
 
-  <span style="display: flex; align-items: center; padding: 8px 12px; background-color: #000000; color: white; border-radius: 8px;">
-    <img src="https://img.icons8.com/color/36/000000/express.png" alt="Express.js" title="Express.js" />
+  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
+    <img src="https://img.icons8.com/color/36/000000/express.png" alt="Express.js" title="Express.js" style="vertical-align: middle;"/>
     <span style="margin-left: 8px;">Express.js</span>
   </span>
 
-  <span style="display: flex; align-items: center; padding: 8px 12px; background-color: #61DAFB; color: black; border-radius: 8px;">
-    <img src="https://img.icons8.com/plasticine/36/000000/react.png" alt="React.js" title="React.js" />
+  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
+    <img src="https://img.icons8.com/plasticine/36/000000/react.png" alt="React.js" title="React.js" style="vertical-align: middle;"/>
     <span style="margin-left: 8px;">React.js</span>
   </span>
 
-  <span style="display: flex; align-items: center; padding: 8px 12px; background-color: #339933; color: white; border-radius: 8px;">
-    <img src="https://img.icons8.com/color/36/000000/nodejs.png" alt="Node.js" title="Node.js" />
+  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
+    <img src="https://img.icons8.com/color/36/000000/nodejs.png" alt="Node.js" title="Node.js" style="vertical-align: middle;"/>
     <span style="margin-left: 8px;">Node.js</span>
   </span>
 
-  <span style="display: flex; align-items: center; padding: 8px 12px; background-color: #F05032; color: white; border-radius: 8px;">
-    <img src="https://img.icons8.com/color/36/000000/git.png" alt="Git" title="Git" />
+  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
+    <img src="https://img.icons8.com/color/36/000000/git.png" alt="Git" title="Git" style="vertical-align: middle;"/>
     <span style="margin-left: 8px;">Git</span>
   </span>
 
-  <span style="display: flex; align-items: center; padding: 8px 12px; background-color: #F24E1E; color: white; border-radius: 8px;">
-    <img src="https://img.icons8.com/color/36/000000/figma.png" alt="Figma" title="Figma" />
+  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
+    <img src="https://img.icons8.com/color/36/000000/figma.png" alt="Figma" title="Figma" style="vertical-align: middle;"/>
     <span style="margin-left: 8px;">Figma</span>
   </span>
 
-  <span style="display: flex; align-items: center; padding: 8px 12px; background-color: #FF6C37; color: white; border-radius: 8px;">
+  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman API" title="Postman API" width="36"/>
     <span style="margin-left: 8px;">Postman API</span>
   </span>
 </p>
+
 
 
 ---
@@ -109,6 +112,7 @@ Feel free to explore my repositories to see more of my work!
 
 ## 🌐 Let's Connect!
 
+
 <p align="left">
   <span style="display: inline-flex; align-items: center; margin-right: 20px;">
     <strong>LinkedIn</strong>
@@ -124,6 +128,7 @@ Feel free to explore my repositories to see more of my work!
     </a>
   </span>
 </p>
+
 
 
 
