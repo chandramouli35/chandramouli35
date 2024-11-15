@@ -15,12 +15,12 @@ Welcome to my GitHub profile! I'm a **MERN Stack Developer** passionate about bu
 ---
 ## 🔧 Tools and Languages
 
-<div  style="display: flex; flex-wrap: wrap; gap: 15px;">
+<div  style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; background-color: #E44D26;">
   
-  <span style="display: flex; align-items: center; padding: 8px 12px; background-color: #E44D26; color: white; border-radius: 8px;">
+  
     <img src="https://img.icons8.com/color/36/000000/html-5.png" alt="HTML5" title="HTML5" style="vertical-align: middle;" />
     <span style="margin-left: 8px; display: inline-block;">HTML5</span>
-  </span>
+  
 </div>
 
 ---
