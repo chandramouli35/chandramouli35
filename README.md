@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a **MERN Stack Developer** passionate about bu
 
 <div style="display: flex; align-items: center; background-color: #E44D26; padding: 8px 12px; border-radius: 8px;">
     <img src="https://img.icons8.com/color/36/000000/html-5.png" alt="HTML5" title="HTML5" style="vertical-align: middle;" />
-    <span style="margin-left: 8px;">HTML5</span>
+    <span style="margin-left: 8px; margin-top:-20px">HTML5</span>
 </div>
 
 
