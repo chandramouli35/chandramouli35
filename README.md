@@ -113,20 +113,18 @@ Feel free to explore my repositories to see more of my work!
 ## 🌐 Let's Connect!
 
 
-<p align="left">
-  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
-    <strong>LinkedIn</strong>
-    <a href="https://www.linkedin.com/in/mouli-chandra/" target="_blank">
-      <img src="https://img.icons8.com/color/36/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" style="vertical-align: middle; margin-left: 8px;"/>
-    </a>
-  </span>
+## 🔗 Contact
 
-  <span style="display: inline-flex; align-items: center; margin-right: 20px;">
-    <strong>Email</strong>
-    <a href="mailto:tarigopulachandramouli1818@gmail.com" target="_blank">
-      <img src="https://img.icons8.com/color/36/000000/gmail.png" alt="Email" title="Email" style="vertical-align: middle; margin-left: 8px;"/>
-    </a>
-  </span>
+<p align="left">
+  <strong>LinkedIn</strong>
+  <a href="https://www.linkedin.com/in/mouli-chandra/" target="_blank">
+    <img src="https://img.icons8.com/color/36/000000/linkedin.png" alt="LinkedIn" title="LinkedIn" style="vertical-align: middle; margin-right: 20px;"/>
+  </a>
+
+  <strong>Email</strong>
+  <a href="mailto:tarigopulachandramouli1818@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/36/000000/gmail.png" alt="Email" title="Email" style="vertical-align: middle; margin-right: 20px;"/>
+  </a>
 </p>
 
 
