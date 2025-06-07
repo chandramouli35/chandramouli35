@@ -1,14 +1,14 @@
 # Hi there, I'm Chandra Mouli Tarigopula 👋
-Welcome to my GitHub profile! I'm a **MERN Stack Developer** passionate about building interactive, responsive, and scalable web applications. With a strong foundation in technologies like **HTML5, CSS, Tailwind CSS, Bootstrap, JavaScript, Python, TypeScript, SQLite, MongoDB, Express.js, React.js, Node.js, Git, Figma, Microsoft Azure,** and **Postman API**, I strive to create impactful solutions that contribute to digital transformation.
+Welcome to my GitHub profile! I'm a **Full Stack Developer at MobileFirst Applications Pvt Ltd**, passionate about building interactive, responsive, and scalable web applications. With a strong foundation in technologies like **HTML5, CSS, Tailwind CSS, Bootstrap, JavaScript, Python, TypeScript, SQLite, MongoDB, Express.js, React.js, Node.js, Git, Figma, Microsoft Azure,** and **Postman API**, I strive to create impactful solutions that contribute to digital transformation.
 
 [![](https://visitcount.itsvg.in/api?id=chandramouli35&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ---
 
 ## 🧑‍💼 About Me
-- 💼 **Full Stack Developer**
+- 💼 **Full Stack Developer at MobileFirst Applications Pvt Ltd**
 - 🌱 Currently enhancing my skills in HTML5, CSS, Tailwind CSS, Bootstrap, JavaScript, Python, SQLite, MongoDB, Node.js, Express.js, React.js, TypeScript, Postman API, Microsoft Azure, and Figma.
-- ✨ Completed Full Stack Development at NxT Wave.
+- ✨ Experienced in building scalable applications with performance optimization and third-party integrations.
 - 🎓 Master's in Computer Applications from Dravidian University.
 - 💡 Passionate about solving coding challenges and building innovative solutions with the MERN stack.
 
