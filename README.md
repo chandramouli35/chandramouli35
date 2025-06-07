@@ -72,6 +72,9 @@ Feel free to explore my repositories to see more of my work!
   <a href="mailto:tarigopulachandramouli1818@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email"/>
   </a>
+   <a href="https://tarigopulaportfolio.netlify.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#E5FFCC" alt="Portfolio"/>
+  </a>
 </div>
 
 ---
