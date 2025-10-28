@@ -1,7 +1,7 @@
 # Hi there, I'm Chandra Mouli Tarigopula 👋
 Welcome to my GitHub profile! I'm a **Full Stack Developer at MobileFirst Applications Pvt Ltd**, passionate about building interactive, responsive, and scalable web applications. With a strong foundation in technologies like **HTML5, CSS, Tailwind CSS, Bootstrap, JavaScript, Python, TypeScript, SQLite, MongoDB, Express.js, React.js, Node.js, Git, Figma, Microsoft Azure,** and **Postman API**, I strive to create impactful solutions that contribute to digital transformation.
 
-[![Profile views](https://komarev.com/ghpvc/?username=chandramouli35)
+![Profile views](https://komarev.com/ghpvc/?username=chandramouli35)
 
 
 ---
