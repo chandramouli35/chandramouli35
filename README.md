@@ -2,206 +2,191 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F46E5&center=true&vMultiline=true&width=700&lines=Full+Stack+AI+Engineer+%F0%9F%A4%96;LangChain+%7C+LangGraph+%7C+RAG+Pipelines;React+%7C+NestJS+%7C+FastAPI+%7C+AWS;Building+AI+that+thinks%2C+not+just+answers)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=4F46E5&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React.js+%7C+Node.js+%7C+NestJS+%7C+TypeScript;PostgreSQL+%7C+AWS+%7C+System+Design;Building+Scalable+Enterprise+Applications)](https://git.io/typing-svg)
 
-</div>
+<br/>
 
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=chandramouli35&color=4f46e5&style=flat-square&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=chandramouli35&color=4f46e5&style=flat-square&label=Profile+Views)
 
 </div>
 
 ---
 
-## 🧑‍💼 About Me
+# 👨‍💻 About Me
 
-- 🤖 **Full Stack AI Engineer** — building production-grade AI systems and full-stack applications
-- 🔥 Built **ResearchIQ** — a 6-agent autonomous AI research platform with verification, contradiction detection and confidence scoring
-- 💼 **2+ years** production experience across **fintech, legal-tech, and sports betting**
-- 🧠 Specialising in **LangChain, LangGraph, RAG pipelines, multi-agent systems, FastAPI**
-- 🎓 **Master of Computer Applications** — Dravidian University (8.07 CGPA)
-- 📍 Hyderabad, India — Open to **Remote | Bangalore | Chennai**
-- 📫 **tarigopula.chandra.mouli@gmail.com**
-- ⚡ **Available immediately** for Full Stack AI Engineer roles
+- 💼 Full Stack Developer with **2+ years of production experience**
+- 🚀 Built enterprise-grade applications across **FinTech, Legal-Tech, and SportsTech domains**
+- ⚡ Specialized in **React.js, Node.js, NestJS, TypeScript, PostgreSQL, Prisma ORM, AWS**
+- 🔥 Strong experience in **Backend Development, REST APIs, API Integration, WebSockets, Real-Time Systems**
+- 🏗️ Experienced with **System Design, Database Design, Multi-Tenant Architecture, Distributed Systems**
+- 🔐 Built secure systems using **JWT Authentication, RBAC, OAuth2**
+- 💳 Worked on **PayPal, Trustly, Razorpay, Sportradar, Mercoa, WhatsApp Business API**
+- 🎓 Master of Computer Applications (MCA) – Dravidian University (CGPA: 8.07)
+- 📍 Andhra Pradesh, India
+- 💼 Open to opportunities in **Bangalore | Hyderabad | Chennai | Remote**
+- 📫 Reach me at **tarigopula.chandra.mouli@gmail.com**
 
 ---
 
-## 🚀 What I Build
+# 🚀 What I Build
 
 ```text
-🤖 AI Systems      →  Multi-agent LangGraph pipelines, RAG, LLM integrations, SSE streaming
-⚙️  Backend         →  NestJS, FastAPI, Node.js, REST APIs, WebSockets, real-time systems
-🖥️  Frontend        →  React.js, TypeScript, streaming UIs, responsive design
-🗄️  Databases       →  PostgreSQL, MongoDB, Redis, ChromaDB, Pinecone, Prisma ORM
-☁️  Cloud           →  AWS (EC2, S3, PM2), Docker, Nginx, GitHub Actions
-🔌 Integrations    →  PayPal, Sportradar, Razorpay, Mercoa, WhatsApp Business API, Trustly
+🖥️ Frontend        → React.js, TypeScript, Redux, Redux Toolkit, Zustand, Tailwind CSS
+⚙️ Backend         → Node.js, NestJS, Express.js, FastAPI, REST APIs, API Integrations
+🗄️ Databases       → PostgreSQL, MongoDB, Redis, SQLite, Prisma ORM
+☁️ Cloud           → AWS EC2, AWS S3, Docker, PM2, Nginx, CI/CD
+🔐 Security        → JWT, RBAC, OAuth2, Authentication & Authorization
+🔌 Integrations    → PayPal, Trustly, Sportradar, Mercoa, Razorpay, WhatsApp Business API
+🏗️ Architecture    → Multi-Tenant Systems, Distributed Systems, Real-Time Systems
+📈 Optimization    → Performance Optimization, Database Design, System Design
 ```
 
 ---
 
-## 🏗️ Featured Projects
+# 🏦 Featured Projects
 
-### 🔍 ResearchIQ — Autonomous AI Research Agent
+## 🏦 Kunvarji Trade — FinTech KYC Platform
 
-> *6 specialized AI agents work in parallel to research, verify, detect contradictions, and generate structured reports — in under 60 seconds*
+**Tech Stack:** NestJS • TypeScript • PostgreSQL • Prisma • WebSockets • AWS S3 • Redis
 
-[![ResearchIQ](https://img.shields.io/badge/ResearchIQ-View_Project-4F46E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chandramouli35)
+### Highlights
 
-**Built with:** `LangGraph` `LangChain` `Tavily` `ChromaDB` `FastAPI` `React` `TypeScript` `Gemini API` `LangSmith`
-
-| Agent | Role |
-|---|---|
-| 🎯 Planner Agent | Breaks research goal into 6-8 targeted search angles |
-| 🌐 Web Research Agent | Searches live internet across all angles simultaneously |
-| 📄 Document Agent | Searches private uploaded files via RAG pipeline |
-| ✅ Verification Agent | Cross-references sources and flags contradictions |
-| 🧠 Analysis Agent | Finds patterns not obvious from individual sources |
-| 📊 Report Agent | Delivers confidence-scored, structured research report |
+- ⚡ Built real-time compliance engine via WebSockets with <200ms synchronization latency
+- 🔒 Implemented multi-tenant data isolation using custom NestJS middleware
+- 📁 Developed secure AWS S3 document lifecycle using presigned URLs
+- 🔗 Integrated Rupeeseed, Techexcel, and Fundcore trading systems
+- 📈 Optimized Prisma database queries for faster compliance retrieval
 
 ---
 
-### 🏦 Kunvarji Trade — Fintech KYC Platform
+## ⚖️ Legacy Assurance Plan — Legal-Tech Platform
 
-> *Multi-tenant trading and KYC onboarding platform — Backend Lead*
+**Tech Stack:** NestJS • React.js • PostgreSQL • Prisma • AWS • JWT
 
-**Built with:** `NestJS` `TypeScript` `PostgreSQL` `Prisma` `WebSockets` `AWS S3` `Redis`
+### Highlights
 
-- ⚡ Real-time compliance engine via WebSockets — **<200ms sync latency**
-- 🔒 Multi-tenant data isolation with custom NestJS middleware
-- 📁 AWS S3 presigned URL secure document lifecycle — **40% server overhead reduction**
-- 🔗 Integrated 3 trading systems — Rupeeseed, Techexcel, Fundcore
-- 👥 Led backend code reviews and task delegation for team
-
----
-
-### ⚽ Rafter Sports — Live Sports Betting Platform
-
-> *Real-time sports data and betting platform — Backend Engineer*
-
-**Built with:** `NestJS` `TypeScript` `MongoDB` `Prisma` `WebSockets` `Sportradar API` `PayPal` `Trustly`
-
-- 📡 Sportradar live data integration — Soccer, Tennis, Basketball, Hockey
-- 🔄 WebSocket odds updates every minute — scalable high-traffic architecture
-- 💳 PayPal + Trustly payment gateway integration
-- 🗄️ Designed database architecture for live betting data at scale
+- 🔐 Implemented RBAC authentication reducing support tickets by 30%
+- ⚡ Optimized APIs achieving 25% faster response times
+- 📄 Improved document rendering performance by 30%
+- 📊 Reduced onboarding drop-offs by 40%
+- 🚀 Accelerated attorney workflow setup by 50%
 
 ---
 
-### ⚖️ Legacy Assurance Plan — Legal-Tech Platform
+## ⚽ Rafter Sports — Live Sports Betting Platform
 
-> *Estate planning platform for attorneys and corporate counsel — Backend Lead*
+**Tech Stack:** NestJS • TypeScript • MongoDB • WebSockets • Sportradar • PayPal • Trustly
 
-**Built with:** `NestJS` `TypeScript` `PostgreSQL` `Prisma` `AWS` `JWT` `React`
+### Highlights
 
-- 🔐 RBAC authentication system — **reduced auth support tickets by 30%**
-- 🤖 AI-powered document editor with placeholder detection — **30% faster rendering**
-- ⚡ Clause API optimization via indexed queries — **25% faster response time**
-- 📊 Interactive onboarding with session tracking — **40% reduction in drop-off**
-- 🚀 Independent attorney practice flows — **50% faster case setup**
+- 📡 Integrated live sports feeds from Sportradar
+- 🔄 Built real-time odds update engine
+- 💳 Integrated payment gateways (PayPal & Trustly)
+- 🗄️ Designed scalable data architecture for betting systems
 
 ---
 
-## 💻 Tech Stack
+## 🤖 ResearchIQ — Autonomous Research Platform
 
-### 🤖 AI & Machine Learning
-![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-%234F46E5.svg?style=for-the-badge&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+**Tech Stack:** LangGraph • LangChain • ChromaDB • FastAPI • React • TypeScript
+
+### Highlights
+
+- 🤖 Built multi-agent research workflows
+- 📄 Implemented document RAG pipelines
+- ✅ Added contradiction detection and source verification
+- 📊 Generated confidence-scored analysis reports
+
+---
+
+# 💻 Tech Stack
+
+## 🚀 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+---
+
+## ⚙️ Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Google Gemini](https://img.shields.io/badge/Gemini_API-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-%23FF6B35.svg?style=for-the-badge&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-%2300B388.svg?style=for-the-badge&logoColor=white)
-
-### 🖥️ Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### ⚙️ Backend
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Prisma](https://img.shields.io/badge/prisma-%2307405e.svg?style=for-the-badge&logo=prisma&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 🛠️ Tools & Others
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ---
 
-## 📊 GitHub Stats
+## 🗄️ Databases
 
-<div align="center">
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-07405e?style=for-the-badge&logo=prisma&logoColor=white)
 
-<!--<a href="https://github.com/chandramouli35">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chandramouli35&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</a>
-
-<a href="https://github.com/chandramouli35">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandramouli35&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
-</a>
-
-</div>
-
-<br/>-->
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=chandramouli35&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
-<!-- ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=chandramouli35&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
-
-</div>
-
-
--->
 ---
-## 🌐 Let's Connect
+
+## ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## 🔐 Security
+
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+![RBAC](https://img.shields.io/badge/RBAC-4F46E5?style=for-the-badge)
+![OAuth2](https://img.shields.io/badge/OAuth2-3c4043?style=for-the-badge)
+![bcrypt](https://img.shields.io/badge/bcrypt-008000?style=for-the-badge)
+
+---
+
+## 🤖 Additional Technologies
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-4F46E5?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-00B388?style=for-the-badge)
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=chandramouli35&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌐 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mouli-chandra/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-&nbsp;
-<a href="mailto:tarigopula.chandra.mouli@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
+
+<a href="mailto:tarigopula.chandra.mouli@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-&nbsp;
+
 <a href="https://tarigopulaportfolio.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=#E5FFCC&style=for-the-badge" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
 </div>
@@ -210,9 +195,12 @@
 
 <div align="center">
 
-### 💼 Open to Full Stack AI Engineer Roles
-**Hyderabad &nbsp;•&nbsp; Bangalore &nbsp;•&nbsp; Chennai &nbsp;•&nbsp; Remote &nbsp;•&nbsp; Available Immediately**
+## 💼 Open To Opportunities
 
-*"I don't just write code. I build systems that think."* 🚀
+### Full Stack Developer • Backend Developer • Node.js Developer • Software Engineer
+
+📍 Bangalore • Hyderabad • Chennai • Remote
+
+⚡ Available Immediately
 
 </div>
